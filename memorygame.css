@@ -1,0 +1,22 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+.backpurple {
+background-color: purple;
+}
+.backblue {
+background-color: royalblue;
+}
+.backgreen {
+  background-color: seagreen;
+}
+.backorange{
+background-color: orange;
+}
+.backred {
+background-color: red;
+}
